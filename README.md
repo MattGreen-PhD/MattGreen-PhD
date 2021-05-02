@@ -1,8 +1,8 @@
 # MattGreen-PhD
 
-###Welcome, here you will find code related to the projects outlined below in reverse chronological order. Please don't hesitate to reach out with any questions. 
+### Welcome, here you will find code related to the projects outlined below in reverse chronological order. Please don't hesitate to reach out with any questions. 
 
-###**Email:** ##Mattgreen901@gmail.com
+### **Email:** ##Mattgreen901@gmail.com
 
 
 ### Single-cell sequencing analysis of Gad2-positive neurons from the lateral habenula

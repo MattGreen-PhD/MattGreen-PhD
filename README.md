@@ -29,7 +29,7 @@
 
 #### Code from *Automated Live-Cell Imaging of Synapses in Rat and Human Neuronal Cultures*. Green et al., 2019. 
 ###### This repository was made by Thomas Pengo and myself and contains pipelines for the automated analysis of images of fluorescently labeled synapses in live neurons.  
-
+![alt text](https://www.frontiersin.org/files/Articles/477959/fncel-13-00467-HTML/image_m/fncel-13-00467-g003.jpg)
 
 <!---
 MattGreen-PhD/MattGreen-PhD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

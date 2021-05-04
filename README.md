@@ -41,6 +41,11 @@
 
 ![alt text](https://www.frontiersin.org/files/Articles/477959/fncel-13-00467-HTML/image_m/fncel-13-00467-g002.jpg)
 
+
+
+
+### - [Puncta-Analyzer-Macros](https://github.com/MattGreen-PhD/Puncta-Analyzer-Macros "Puncta-Analyzer-Macros")
+#### This repository automates the process of opening and converting multiple files in Fiji and running the Puncta Analyzer on each file. It also contains code that sifts through the output files to retrieve only the colocalized puncta and the green and red puncta individually.  
 <!---
 MattGreen-PhD/MattGreen-PhD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

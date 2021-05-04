@@ -1,6 +1,6 @@
 # MattGreen-PhD
 
-### Welcome, here you will find code related to the projects outlined below in reverse chronological order. Please don't hesitate to reach out with any questions. 
+### Welcome, see below for a brief description behind each repository and the overarching projects. Note, some repositories are not yet released prior to publication or are a work in progress. Please don't hesitate to reach out with any questions. 
 
 ### **Email:** ##Mattgreen901@gmail.com
 
@@ -17,7 +17,7 @@
 ######   - GO analyses using TopGO
 ######   - Motif enrichment analyses using RcisTarget
 
-
+### 'H1-Mutation-Simulations'
 #### Simulating mutations in the H1 family of histone genes and calculating predicted resulting protein charge
 ###### This repository contains R code that simulations single base pair insertions or deletions at each bp in each gene of the histone H1 family. It also calculates the predicted charge of the resulting protein from each mutation and plots mutation vs predicted charge.
 
@@ -28,8 +28,7 @@
 ![Figure from SCALE pipeline](https://user-images.githubusercontent.com/47198123/116953279-db3a5780-ac5a-11eb-9570-cacbfffe908e.jpg)
 
 
-
-
+### 'ASIA pipelines'
 #### Code from *Automated Live-Cell Imaging of Synapses in Rat and Human Neuronal Cultures*. Green et al., 2019. 
 ###### This repository was made by Thomas Pengo and myself and contains pipelines for the automated analysis of images of fluorescently labeled synapses in live neurons.
 ###### Below is an outline of the image analysis workflow.

@@ -7,9 +7,7 @@
 
 
 
-
-#### Single-cell sequencing analysis of Gad2-positive neurons from the lateral habenula
-
+#### - Single-cell sequencing analysis of Gad2-positive neurons from the lateral habenula
 ###### This repository contains R code that performs the following analyses
 ######   - Single-cell QC analyses
 ######   - Clustering analyses using PCA and UMAP projections
@@ -17,18 +15,26 @@
 ######   - GO analyses using TopGO
 ######   - Motif enrichment analyses using RcisTarget
 
-### 'H1-Mutation-Simulations'
+
+
+
+### - 'H1-Mutation-Simulations'
 #### Simulating mutations in the H1 family of histone genes and calculating predicted resulting protein charge
 ###### This repository contains R code that simulations single base pair insertions or deletions at each bp in each gene of the histone H1 family. It also calculates the predicted charge of the resulting protein from each mutation and plots mutation vs predicted charge.
 
 
+
+
+### - 'scRNA-seq-Estimating-Transcriptional-Bursting'
 #### Generating allele-specific read counts in order to estimate genome-wide transcriptional bursting kinetics
 ###### This repository contains code to conduct the pre-processing involved to generate allele-specific read counts from single cell sequencing data using C. 
 ###### It also contains code using R to conduct the estimation of transcriptional bursting kinetics using the read counts under the pipeline produced in the Jiang et al., 2017 paper *SCALE: modeling allele-specific gene expression by single-cell RNA sequencing.* 
 ![Figure from SCALE pipeline](https://user-images.githubusercontent.com/47198123/116953279-db3a5780-ac5a-11eb-9570-cacbfffe908e.jpg)
 
 
-### 'ASIA pipelines'
+
+
+### - 'ASIA pipelines'
 #### Code from *Automated Live-Cell Imaging of Synapses in Rat and Human Neuronal Cultures*. Green et al., 2019. 
 ###### This repository was made by Thomas Pengo and myself and contains pipelines for the automated analysis of images of fluorescently labeled synapses in live neurons.
 ###### Below is an outline of the image analysis workflow.

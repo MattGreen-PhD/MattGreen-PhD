@@ -25,11 +25,13 @@
 #### Generating allele-specific read counts in order to estimate genome-wide transcriptional bursting kinetics
 ###### This repository contains code to conduct the pre-processing involved to generate allele-specific read counts from single cell sequencing data using C. 
 ###### It also contains code using R to conduct the estimation of transcriptional bursting kinetics using the read counts under the pipeline produced in the Jiang et al., 2017 paper *SCALE: modeling allele-specific gene expression by single-cell RNA sequencing.* 
-
+[Figure from SCALE pipeline.pptx](https://github.com/MattGreen-PhD/MattGreen-PhD/files/6418711/Figure.from.SCALE.pipeline.pptx)
 
 #### Code from *Automated Live-Cell Imaging of Synapses in Rat and Human Neuronal Cultures*. Green et al., 2019. 
-###### This repository was made by Thomas Pengo and myself and contains pipelines for the automated analysis of images of fluorescently labeled synapses in live neurons.  
-![alt text](https://www.frontiersin.org/files/Articles/477959/fncel-13-00467-HTML/image_m/fncel-13-00467-g003.jpg)
+###### This repository was made by Thomas Pengo and myself and contains pipelines for the automated analysis of images of fluorescently labeled synapses in live neurons.
+###### Below is an outline of the image analysis workflow.
+
+![alt text](https://www.frontiersin.org/files/Articles/477959/fncel-13-00467-HTML/image_m/fncel-13-00467-g002.jpg)
 
 <!---
 MattGreen-PhD/MattGreen-PhD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

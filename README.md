@@ -2,7 +2,7 @@
 
 ### Welcome, see below for a brief description behind each repository and the overarching projects. Note, some repositories are not yet released prior to publication or are a work in progress. Please don't hesitate to reach out with any questions. 
 
-### **Email:** ##Mattgreen901@gmail.com
+### **Email:** Mattgreen901@gmail.com
 
 
 
